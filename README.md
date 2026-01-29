@@ -1,5 +1,5 @@
 # Task 9 – Subqueries in MySQL
-
+## AT LAST I WILL BE KEEPING THE IMAGES
 ## Objective
 
 The purpose of this task is to understand and practice SQL subqueries using the employees_fk table.  
@@ -20,6 +20,7 @@ Columns:
 - department_id
 
 ---
+
 
 ## What Was Practiced
 
@@ -138,3 +139,4 @@ Subqueries are commonly used for:
 - Reports requiring nes
 ::contentReference[oaicite:0]{index=0}
 
+![WhatsApp Image 2026-01-29 at 11 18 09 AM](https://github.com/user-attachments/assets/9e405079-bfb1-4913-b8ca-c482efe20cbd)
